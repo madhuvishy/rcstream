@@ -1,0 +1,15 @@
+{
+  "name": "rcstream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stream_reader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"socket.io-client": "0.9.2",
+  	"request": "2.58.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
